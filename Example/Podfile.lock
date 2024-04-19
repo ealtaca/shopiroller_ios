@@ -10,7 +10,7 @@ PODS:
     - Braintree/Core
     - Braintree/PayPalDataCollector
   - Braintree/PayPalDataCollector (5.12.0)
-  - FittedSheets (2.4.2)
+  - FittedSheets (2.6.1)
   - InputMask (6.1.0)
   - IQKeyboardManagerSwift (6.5.11)
   - Kingfisher (7.6.2)
