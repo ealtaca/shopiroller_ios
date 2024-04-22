@@ -13,7 +13,7 @@ PODS:
   - FittedSheets (2.6.1)
   - InputMask (6.1.0)
   - IQKeyboardManagerSwift (7.0.2)
-  - Kingfisher (7.1.2)
+  - Kingfisher (7.6.1)
   - lottie-ios (3.5.0)
   - MaterialComponents/AnimationTiming (124.2.0)
   - MaterialComponents/Availability (124.2.0)
@@ -76,7 +76,7 @@ PODS:
     - FittedSheets
     - InputMask
     - IQKeyboardManagerSwift
-    - Kingfisher (~> 7.1.2)
+    - Kingfisher (~> 7.6.1)
     - lottie-ios (~> 3.5.0)
     - MaterialComponents/Buttons
     - Sentry (~> 8.4.0)

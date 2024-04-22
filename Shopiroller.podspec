@@ -28,7 +28,7 @@ Pod::Spec.new do |s|
   s.dependency 'SVProgressHUD'
   s.dependency 'MaterialComponents/Buttons'
   s.dependency 'FittedSheets'
-  s.dependency 'Kingfisher' , '~> 7.1.2'
+  s.dependency 'Kingfisher' , '~> 7.6.1'
   s.dependency 'InputMask'
   s.dependency 'lottie-ios', '~> 3.5.0'
   s.dependency 'IQKeyboardManagerSwift'
