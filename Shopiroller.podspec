@@ -31,7 +31,7 @@ Pod::Spec.new do |s|
   s.dependency 'Kingfisher' , '~> 7.6.1'
   s.dependency 'InputMask'
   s.dependency 'lottie-ios', '~> 3.5.0'
-  s.dependency 'IQKeyboardManagerSwift'
+  s.dependency 'IQKeyboardManagerSwift' , '~> 6.5.11'
   s.dependency 'Stripe', '~> 22.8.1'
   s.dependency 'Braintree', '~> 5.12.0'
   s.dependency 'Sentry', '~> 8.4.0'
