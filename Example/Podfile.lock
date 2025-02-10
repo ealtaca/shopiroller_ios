@@ -13,7 +13,7 @@ PODS:
   - FittedSheets (2.6.1)
   - InputMask (6.1.0)
   - IQKeyboardManagerSwift (6.5.16)
-  - Kingfisher (7.6.2)
+  - Kingfisher (7.10.2)
   - lottie-ios (3.5.0)
   - MaterialComponents/AnimationTiming (124.2.0)
   - MaterialComponents/Availability (124.2.0)
@@ -76,7 +76,7 @@ PODS:
     - FittedSheets
     - InputMask
     - IQKeyboardManagerSwift (~> 6.5.11)
-    - Kingfisher (~> 7.6.1)
+    - Kingfisher (~> 7.10.0)
     - lottie-ios (~> 3.5.0)
     - MaterialComponents/Buttons
     - Sentry (~> 8.4.0)
@@ -131,14 +131,14 @@ SPEC CHECKSUMS:
   FittedSheets: 37e35f105c531f3845075f1788dd8517a35315c4
   InputMask: 71d291dc54d2deaeac6512afb6ec2304228c0bb7
   IQKeyboardManagerSwift: 12d89768845bb77b55cc092ecc2b1f9370f06b76
-  Kingfisher: 6c5449c6450c5239166510ba04afe374a98afc4f
+  Kingfisher: 99edc495d3b7607e6425f0d6f6847b2abd6d716d
   lottie-ios: c55158d67d0629a260625cc2ded2052b829e3c3e
   MaterialComponents: 1a9b2d9d45b1601ae544de85089adc4c464306d4
   MDFInternationalization: d697c55307816222a55685c4ccb1044ffb030c12
   MDFTextAccessibility: f4bb4cc2194286651b59a215fdeaa0e05dc90ba5
   Sentry: 16d46dd5ca10e7f4469a2611805a3de123188add
   SentryPrivate: 2bb4f8d9ff558b25ac70b66c1dedc58a7c43630b
-  Shopiroller: 89f02ff0b359273f595a3ec6ad1b4cc0e4be2926
+  Shopiroller: 6ca5392b9b623dd08b2f416865f4174c78ebb540
   Stripe: 59f6659e8ea413def19c97c57e23f5ec6ea48cf8
   StripeApplePay: 6e9aebd3d248464836e9fbdaef6e5fb1817d56a6
   StripeCore: 193f27552fb98108ebfe0df11651fe5f38948305
